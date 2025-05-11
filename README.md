@@ -8,9 +8,8 @@
 - 📚 **Computer Science** student with an **Associate's in Programming**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/martin-leonardi-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-leonardi-" height="30" width="40" /></a>
-</p>
+
+[![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/martin-leonardi-) [![My Email](https://skillicons.dev/icons?i=gmail)](mailto:mtnleonardi@gmail.com)
 
 ## Languages and Tools
 
