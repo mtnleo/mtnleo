@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Martin</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working on [Hearthly](https://github.com/mtnleo/real-estate-listings)
+- 🔭 UI Developer Intern @ Grid Dynamics
 
 - 🌱 I’m currently learning **Fullstack integration with NodeJS/Express and MySQL**
 
