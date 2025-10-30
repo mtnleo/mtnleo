@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Martin</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina 🇦🇷</h3>
 
-- 🔭 UI Developer Intern @ Grid Dynamics
-
 - 🌱 I’m currently learning **Fullstack integration with NodeJS/Express and MySQL**
 
 - 📚 **Computer Science** student with an **Associate's in Programming**
